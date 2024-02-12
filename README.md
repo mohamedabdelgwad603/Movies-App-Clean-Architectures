@@ -1,16 +1,28 @@
-# movies_app
+📘 Overview
 
-A new Flutter project.
+Used Flutter with BLoC pattern with Clean-Architecture and Responsive design to show some info about Movies 🎬 . Used some ainmation widgets 
 
-## Getting Started
+📌 Data source I found this free API : https://www.themoviedb.org/
 
-This project is a starting point for a Flutter application.
+📱 Screens
 
-A few resources to get you started if this is your first Flutter project:
+🏠 Home Screen Used Dio to fetch data and Used fadeIn animation widget 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![home1](https://github.com/mohamedabdelgwad603/movie_app/assets/82996452/f70dada3-4eb5-48f1-a694-206ac7afad5f) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+used shimmer widget to  add shimmer effect when uploading the images
+
+![h2](https://github.com/mohamedabdelgwad603/movie_app/assets/82996452/1a71005b-3d6a-4ad7-85dd-fdc7c40850da) 
+
+movie details screen 
+
+![h4](https://github.com/mohamedabdelgwad603/movie_app/assets/82996452/c062f1db-d251-4f1e-a5c4-e35157a419cc)
+
+
+
+
+
+
+
+
